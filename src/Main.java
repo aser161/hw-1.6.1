@@ -37,7 +37,7 @@ public class Main {
         }
         System.out.println();
 
-        // Задание 2.3
+          // Задание 2.3
         System.out.println("Задание 2.3");
         for (int i = 1; i <= 512; i *= 2){
             System.out.print(i + " ");
